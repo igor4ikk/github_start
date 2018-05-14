@@ -1,0 +1,19 @@
+.jumbotron{
+	padding: 1rem 2rem;
+}
+#carousel{
+	min-height: 350px;
+}
+#name_form{
+	text-align: center;
+	font-style: italic;
+}
+#footer{
+	height: 100px;
+	width: 100%;
+	background-color: #42f4e5;
+}
+#footer_text{
+	padding: 10px;
+	font-family: cursive;
+}
